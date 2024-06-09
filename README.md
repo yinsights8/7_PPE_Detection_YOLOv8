@@ -39,5 +39,5 @@ Once you're in the directory containing your ClientApp.py file, run the followin
 
 Following these steps should launch your Flask web application, allowing you to access it through a web browser or any other HTTP client.
 
-https://github.com/yinsights8/7_PPE_Detection_YOLOv8/assets/108249945/9711969f-5efe-4240-b51c-01cd2b97269e
+https://github.com/yinsights8/7_PPE_Detection_YOLOv8/assets/108249945/f1031d3b-d4bb-4621-b6e5-f388357f9075
 
